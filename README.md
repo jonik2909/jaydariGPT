@@ -1,0 +1,2 @@
+# jaydariGPT
+this is jaydariGPT
